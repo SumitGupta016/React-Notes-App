@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# React-Notes-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Tech Stack
+
+This project is a Sticky Notes app created with React.js, HTML, CSS, and Javascript
 
 In the project directory, you can run:
 

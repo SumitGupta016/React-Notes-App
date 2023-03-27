@@ -13,23 +13,37 @@ This project is a Sticky Notes app created with React.js, HTML, CSS, and Javascr
 
 ### `Notes`
 
-![Notes](https://github.com/SumitGupta016/React-Notes-App/blob/master/Notes.png?raw=true)
+![Notes](https://user-images.githubusercontent.com/69397414/228024954-92980d8c-5870-40c5-89c9-9fa8270b6960.png)
+
 
 These are in form of small sticky notes which have a word limit of 200 words per note.
 
 We can store notes in localstorage.
 
 
+
+
 ### `Search bar`
 
-![Search bar](https://github.com/SumitGupta016/React-Notes-App/blob/master/Search%20bar.png?raw=true)
+Added a Search bar for Searching Notes, texts within the notes.
+
+
+![Search bar](https://user-images.githubusercontent.com/69397414/228025059-10a71f6a-197d-4342-b742-f5121056601c.png)
+
 
 
 
 
 ### `Dark Mode Toggle`
 
-![light mode](https://github.com/SumitGupta016/React-Notes-App/blob/master/white.png?raw=true)
+I added a Switch to toggle for light and Dark mode as shown below : 
+
+### Light Mode
+
+![white](https://user-images.githubusercontent.com/69397414/228025096-3c7bdd1c-0acd-4ffd-87b2-1b878f20d8d6.png)
 
 
-![dark mode](https://github.com/SumitGupta016/React-Notes-App/blob/master/black.png?raw=true)
+### Dark Mode
+
+![black](https://user-images.githubusercontent.com/69397414/228025143-af068b56-0da6-4e9e-aae6-4d3478f60739.png)
+
